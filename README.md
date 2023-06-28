@@ -1,6 +1,6 @@
 ### 👋 반갑습니다!
 
-[![Portfolio](https://img.shields.io/badge/portfolio-FEFEFE?style=for-the-badge&logo=notion&logoColor=black)](https://www.notion.so/KC64ML-ae415166f1114131a573349360382ada)[![블로그](https://img.shields.io/badge/velog-3CB371?style=for-the-badge&logo=velog&logoColor=white&link=https://velog.io/@chang626)](https://velog.io/@chang626)
+[![Portfolio](https://img.shields.io/badge/portfolio-FEFEFE?style=for-the-badge&logo=notion&logoColor=black)](https://www.notion.so/475dbf5619a8453e8641948ce89f2b81?pvs=4)[![블로그](https://img.shields.io/badge/velog-3CB371?style=for-the-badge&logo=velog&logoColor=white&link=https://velog.io/@chang626)](https://velog.io/@chang626)
 
 
 * 🔥 꾸준함 하나는 자신 있는 백엔드 개발자입니다.
