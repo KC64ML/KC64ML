@@ -1,6 +1,6 @@
 ### 👋 반갑습니다!
 
-[![이력서](https://img.shields.io/badge/portfolio-FEFEFE?style=for-the-badge&logo=notion&logoColor=black)](https://www.notion.so/844a525329c54298bfb4859c4bb7a849?pvs=4)[![포트폴리오](https://img.shields.io/badge/portfolio-FEFEFE?style=for-the-badge&logo=notion&logoColor=black)](https://www.notion.so/9293e13822bb40638b820bede89a6bc8?pvs=4)
+[![1](https://img.shields.io/badge/이력서-FEFEFE?style=for-the-badge&logo=notion&logoColor=black)](https://www.notion.so/844a525329c54298bfb4859c4bb7a849?pvs=4)[![2](https://img.shields.io/badge/포트폴리오-FEFEFE?style=for-the-badge&logo=notion&logoColor=black)](https://www.notion.so/9293e13822bb40638b820bede89a6bc8?pvs=4)
 
 
 * 🔥 꾸준함 하나는 자신 있는 백엔드 개발자입니다.
